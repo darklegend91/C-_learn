@@ -8,7 +8,7 @@ This folder is made for learning basics of C++ and various resources are used,
 --> [Learncpp](https://www.learncpp.com/)
 --> [w3schools](https://www.w3schools.com/cpp)
 
-## Data type and thir information.
+## Data type and their information.
 
 ![alt text](image.png)
 
