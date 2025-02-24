@@ -2,11 +2,11 @@
 This folder is made for learning basics of C++ and various resources are used,
 
 # Major cheatsheet
-[text](https://quickref.me/cpp)
+[CheatSheet](https://quickref.me/cpp)
 
 # *Resources used*
---> [text](https://www.learncpp.com/)
---> [text](https://www.w3schools.com/cpp)
+--> [Learncpp](https://www.learncpp.com/)
+--> [w3schools](https://www.w3schools.com/cpp)
 
 ## Data type and thir information.
 
